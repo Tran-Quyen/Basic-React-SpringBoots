@@ -1,0 +1,17 @@
+.height {
+  width: 100%;
+  height: 400px;
+  .card-body {
+    .wrap {
+      position: relative;
+      width: 100%;
+      height: 70%;
+      text-align: center;
+      .btn {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+      }
+    }
+  }
+}
